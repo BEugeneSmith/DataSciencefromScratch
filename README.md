@@ -1,0 +1,1 @@
+This README serves as my way of working through Data Science from Scratch by Joel Grus, a book that goes through implementations of data science fundamentals with python. The book is structured in way such that each chapter builds on the last, so I'll structure this repo as a library that imports the previous chapter's library. 
